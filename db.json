@@ -2,55 +2,55 @@
   "products": [
      {
        "id": 1,
-       "title": "一支筆",
+       "name": "一支筆",
        "description": "是一支可以寫出任何字的筆",
        "price": 500
       },
       {
         "id": 2,
-        "title": "一本書",
+        "name": "一本書",
         "description": "是一本可以隨意翻閱的書",
         "price": 1000
       },
       {
         "id": 3,
-        "title": "一台車",
+        "name": "一台車",
         "description": "是一台可以跑很快的車",
         "price": 1000
       },
       {
         "id": 4,
-        "title": "一張紙",
+        "name": "一張紙",
         "description": "第一張紙",
         "price": 990
       },
       {
         "id": 5,
-        "title": "二張紙",
+        "name": "二張紙",
         "description": "第二張紙",
         "price": 890
       },
       {
         "id": 6,
-        "title": "三張紙",
+        "name": "三張紙",
         "description": "第三張紙",
         "price": 1090
       },
       {
         "id": 7,
-        "title": "四張紙",
+        "name": "四張紙",
         "description": "第四張紙",
         "price": 1390
       },
       {
         "id": 8,
-        "title": "五張紙",
+        "name": "五張紙",
         "description": "第五張紙",
         "price": 4390
       },
       {
         "id": 9,
-        "title": "六張紙",
+        "name": "六張紙",
         "description": "第六張紙",
         "price": 199
       }
